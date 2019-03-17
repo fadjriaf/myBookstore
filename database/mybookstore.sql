@@ -177,7 +177,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `nama`, `alamat`, `telepon`, `username`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(9, 'Fadjri Alfalah', 'JL. Mana Aja No.1', '08978930552', 'fadjriaf', '$2y$10$/TVErcUKT6YMS09FA2t2C.S8uAf/.8/FkgD3CkKsWMIFNJikyng56', 'ncmKJsvsRzpNdMR9AKkUGWGoF517nbmwt9injMJcEDmSta7ioFO3GrergRxb', '2018-08-16 06:54:58', '2018-09-22 14:03:15'),
+(9, 'Fadjri Alfalah', 'JL. Mana Aja No.1', '085524580902', 'fadjriaf', '$2y$10$/TVErcUKT6YMS09FA2t2C.S8uAf/.8/FkgD3CkKsWMIFNJikyng56', 'ncmKJsvsRzpNdMR9AKkUGWGoF517nbmwt9injMJcEDmSta7ioFO3GrergRxb', '2018-08-16 06:54:58', '2018-09-22 14:03:15'),
 (10, 'Admin', 'jl. Mana Aja', '08978930552', 'admin', '$2y$10$kdG4K4Akn3N.AgWE1573geWVo7/vMvXxqauAXINFEn8rSNSquW6OW', '9a6ojShNZ8WgOQaBJizV9VtKq72VKzeCcNvBAFRhG4WAnULJA2NrYMLaCfgq', '2018-09-22 14:02:53', '2018-09-22 14:02:53');
 
 --
